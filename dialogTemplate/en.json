@@ -1,0 +1,20 @@
+{
+    "skill": "ClockStrike",
+    "icon": "time",
+    "description": "Let alice strike the clock or tell the actual time on certain periods.",
+    "slotTypes": [],
+    "intents": [
+        {
+        	"name": "ClockStrikeIntent",
+        	"description": "The user can start or stop alice striking the clock/tell time",
+        	"enabledByDefault": true,
+        	"utterances": [
+        		"Please strike the clock on each hour for me",
+				"Please strike for me the clock on each hour",
+				"Please strike every hour the clock for me",
+				"Ring he bell each hour"
+			],
+        	"slots": []
+		},
+	]
+}

@@ -1,0 +1,15 @@
+{
+	"name": "ClockStrike",
+	"version": "0.0.1",
+	"icon": "far fa-clock",
+	"category": "assistance",
+	"author": "AijeKlaren",
+	"maintainers": [],
+	"desc": "Ring a bell",
+	"aliceMinVersion": "1.0.0-a6",
+	"systemRequirements": [],
+	"pipRequirements": [],
+	"conditions": {
+		"lang": ["en"]
+	}
+}
